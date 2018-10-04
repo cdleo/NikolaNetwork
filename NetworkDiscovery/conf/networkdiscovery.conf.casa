@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration name="networkdiscovery">
+	<moduleDescription value="networkDiscover" />
+	<certificate value="/home/cleo/cert.pem" />
+	<privateKey value="/home/cleo/key.pem" />
+	<pollTimeout value="100" />
+	<acceptorBasePort value="8000" />
+	<maxAcceptorsPerHost value="6" />
+	<discoveryInterval value="10" />
+	<user value="guest" />
+	<password value="084e0343a0486ff05530df6c705c8bb4" />
+	<interfaces>
+		<item value="p4p1"/>
+	</interfaces>
+</configuration>

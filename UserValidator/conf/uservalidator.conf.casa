@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration name="uservalidator">
+	<moduleDescription value="userValidator" />
+	<certificate value="/home/cleo/cert.pem" />
+	<privateKey value="/home/cleo/key.pem" />
+	<pollTimeout value="100" />
+	<acceptorBasePort value="8000" />
+	<maxAcceptorsPerHost value="6" />
+	<user value="cleo" />
+	<password value="fce75110d95bedd51264ce2a99cfc908" />
+	<dbHost value="localhost" />
+	<dbName value="Nikola" />
+	<dbUsr value="nikola" />
+	<dbPwd value="Nikola2014" />
+</configuration>

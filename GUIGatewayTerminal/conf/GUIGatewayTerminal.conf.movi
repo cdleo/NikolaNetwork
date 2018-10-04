@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration name="gatewayterminal">
+	<moduleDescription value="GatewayTerminal" />
+	<certificate value="/home/cleo/cert.pem" />
+	<privateKey value="/home/cleo/key.pem" />
+	<pollTimeout value="100" />
+	<gatewayHost value="10.244.44.120" />
+	<gatewayPort value="9000" />
+	<user value="cleo" />
+	<password value="fce75110d95bedd51264ce2a99cfc908" />
+	<resourcesPath value="/mnt/DiscoC/sources/varios/Nikola/resources/img" />
+</configuration>
+
