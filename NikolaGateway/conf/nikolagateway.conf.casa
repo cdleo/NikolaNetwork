@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration name="nikolagateway">
+	<moduleDescription value="nikolaGateway" />
+	<certificate value="/home/cleo/cert.pem" />
+	<privateKey value="/home/cleo/key.pem" />
+	<pollTimeout value="100" />
+	<acceptorBasePort value="8000" />
+	<maxAcceptorsPerHost value="6" />
+	<gatewayCertificate value="/home/cleo/cert.pem" />
+	<gatewayPrivateKey value="/home/cleo/key.pem" />
+	<gatewayPort value="9000" />
+	<user value="cleo" />
+	<password value="fce75110d95bedd51264ce2a99cfc908" />
+</configuration>
+
