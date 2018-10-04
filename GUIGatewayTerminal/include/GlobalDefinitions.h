@@ -1,0 +1,20 @@
+/* 
+ * File:   GlobalDefinitions.h
+ * Author: cleo
+ *
+ * Created on November 17, 2014, 12:28 PM
+ */
+
+#ifndef GLOBALDEFINITIONS_GUIGATEWAYTERMINAL_H
+#define	GLOBALDEFINITIONS_GUIGATEWAYTERMINAL_H
+
+#include <synapse/PredefinedServicesAndCaps.h>
+
+#define ID_CAPABILITIES_LIST_SERVICE            MAX_PREDEFINED_SERVICE + 1
+#define ID_LOAD_CONTROLS_SERVICE                ID_CAPABILITIES_LIST_SERVICE + 1
+#define ID_SAVE_CONTROLS_SERVICE                ID_LOAD_CONTROLS_SERVICE + 1
+
+#define ID_REMOVE_CONTROL_SERVICE               ID_SAVE_CONTROLS_SERVICE + 1
+
+#endif	/* GLOBALDEFINITIONS_GUIGATEWAYTERMINAL_H */
+
